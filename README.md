@@ -52,7 +52,7 @@ A personal resume website deployed on AWS using modern cloud architecture, inclu
 🔗 https://resume.lamnguyen.website/
 ## 📸 Screenshots
 
-*(Optional: Add screenshots showing your deployed site, AWS setup, etc.)*
+- Coming soon
 
 ## 🚀 Next Steps
 

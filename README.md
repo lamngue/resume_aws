@@ -47,6 +47,10 @@ A personal resume website deployed on AWS using modern cloud architecture, inclu
 - Associated the ACM certificate with the CloudFront distribution.
 - Enabled HTTPS-only connections.
 
+### 7. Add Viewer Count:
+- Added a DynamoDB table to store the view counts.
+- Configured Lambda and API Gateway to retrieve and modify the item.
+
 ## 🌍 Live Demo
 
 🔗 https://resume.lamnguyen.website/
@@ -56,6 +60,5 @@ A personal resume website deployed on AWS using modern cloud architecture, inclu
 
 ## 🚀 Next Steps
 
-- Add a visitor counter using DynamoDB, API Gateway, and Lambda.
 - Deploy backend via CI/CD (GitHub Actions).
 - Add tests or validation pipelines.

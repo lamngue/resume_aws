@@ -1,4 +1,4 @@
-fetch('https://6z4nqa3j4bcfrvo7tuvq5eb6uq0xcvuq.lambda-url.eu-north-1.on.aws/')
+fetch('https://bxlly5hekabmhbrc6ttu6t2zpi0ofjuo.lambda-url.eu-north-1.on.aws/')
 .then(response => response.json())
 .then(data => {
   document.getElementById('count').innerText = data;

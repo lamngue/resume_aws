@@ -56,7 +56,7 @@ A personal resume website deployed on AWS using modern cloud architecture, inclu
 🔗 https://resume.lamnguyen.website/
 ## 📸 Architecture Diagram
 
-(![ClourResumeArchitecture drawio](https://github.com/user-attachments/assets/bd448d0b-e5a5-4c5b-88de-047bee258d34))
+![ClourResumeArchitecture drawio](https://github.com/user-attachments/assets/bd448d0b-e5a5-4c5b-88de-047bee258d34)
 
 ## 🚀 Next Steps
 

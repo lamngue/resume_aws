@@ -51,6 +51,10 @@ A personal resume website deployed on AWS using modern cloud architecture, inclu
 - Added a DynamoDB table to store the view counts.
 - Configured Lambda and API Gateway to retrieve and modify the item.
 
+## 8. Deploy backend via CI/CD (GitHub Actions):
+- Added yaml script to trigger upload to S3 upon a commit.
+
+
 ## 🌍 Live Demo
 
 🔗 https://resume.lamnguyen.website/
@@ -60,5 +64,4 @@ A personal resume website deployed on AWS using modern cloud architecture, inclu
 
 ## 🚀 Next Steps
 
-- Deploy backend via CI/CD (GitHub Actions).
 - Add tests or validation pipelines.
